@@ -16,3 +16,9 @@
 - https://stackoverflow.com/questions/50545943/dialogflow-easy-way-for-authorization/51941682#51941682
   
 - [Dialogflow Enterprise Edition and V2](https://medium.com/google-cloud/how-to-create-a-chatbot-using-dialogflow-enterprise-edition-and-dialogflow-api-v2-923f4a965176)
+
+- [From Firestore to BigQuery with Firebase Functinos](https://blog.questionable.services/article/from-firestore-to-bigquery-firebase-functions/)
+
+- [Export Datastore to BigQuery](https://github.com/chees/datastore2bigquery)
+
+- [GCP node.js docs sample](https://github.com/GoogleCloudPlatform/nodejs-docs-samples/blob/3bb14ef7c23305613bbfe04f03d3b83f6a120e1a/appengine/hello-world/flexible/app.yaml)
